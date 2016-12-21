@@ -1,0 +1,47 @@
+.timer-row {
+  padding-top: 20em;
+  text-align: center;
+}
+
+button:focus {
+  outline: 0;
+}
+
+.timer-row button {
+  margin-top: .35em;
+  color: #e5e5e5;
+  background-color: #ef2020;
+  font-size: 3.5em;
+  border: none;
+  border-radius: 10px;
+  height: 1.5em;
+  width: 1.5em;
+}
+
+.timer {
+  font-size: 6.854em;
+  font-family: 'Bitter', serif;
+}
+
+.startButton {
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.stopButton {
+  display: none;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.resumeButton {
+  display: none;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
